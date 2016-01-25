@@ -1,0 +1,7 @@
+E:\zacny\RabbitMQ\RabbitMQ\bin\Debug\RabbitMQ.dll
+E:\zacny\RabbitMQ\RabbitMQ\bin\Debug\RabbitMQ.pdb
+E:\zacny\RabbitMQ\RabbitMQ\bin\Debug\RabbitMQ.Client.dll
+E:\zacny\RabbitMQ\RabbitMQ\bin\Debug\RabbitMQ.Client.xml
+E:\zacny\RabbitMQ\RabbitMQ\obj\Debug\RabbitMQ.csprojResolveAssemblyReference.cache
+E:\zacny\RabbitMQ\RabbitMQ\obj\Debug\RabbitMQ.dll
+E:\zacny\RabbitMQ\RabbitMQ\obj\Debug\RabbitMQ.pdb
